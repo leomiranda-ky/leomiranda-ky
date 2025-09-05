@@ -100,21 +100,25 @@
 ## Projects
 
 <p align="center">
-  <a href="https://github.com/leomiranda-ky/lp-solution-optimizer">
-    <img width="278" alt="lp-solution-optimizer"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leomiranda-ky&repo=lp-solution-optimizer&bg_color=1F222E&title_color=6366F1&text_color=CBD5E1&icon_color=2F81F7&hide_border=true&show_icons=false">
-  </a>
-  <a href="https://github.com/leomiranda-ky/data-analysis-and-visualization">
-    <img width="278" alt="data-analysis-and-visualization"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leomiranda-ky&repo=data-analysis-and-visualization&bg_color=1F222E&title_color=6366F1&text_color=CBD5E1&icon_color=2F81F7&hide_border=true&show_icons=false">
+  <a href="https://github.com/leomiranda-ky/f1-analysis-databricks">
+    <img width="278" alt="f1-analysis-databricks"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leomiranda-ky&repo=f1-analysis-databricks&bg_color=1F222E&title_color=6366F1&text_color=CBD5E1&icon_color=2F81F7&hide_border=true&show_icons=false">
   </a>
   <a href="https://github.com/leomiranda-ky/ml-churn-prediction-pipeline">
     <img width="278" alt="ml-churn-prediction-pipeline"
          src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leomiranda-ky&repo=ml-churn-prediction-pipeline&bg_color=1F222E&title_color=6366F1&text_color=CBD5E1&icon_color=2F81F7&hide_border=true&show_icons=false">
   </a>
-  <a href="https://github.com/leomiranda-ky/f1-analysis-databricks">
-    <img width="278" alt="f1-analysis-databricks"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leomiranda-ky&repo=f1-analysis-databricks&bg_color=1F222E&title_color=6366F1&text_color=CBD5E1&icon_color=2F81F7&hide_border=true&show_icons=false">
+  <a href="https://github.com/leomiranda-ky/breast-cancer-classifier">
+    <img width="278" alt="breast-cancer-classifier"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leomiranda-ky&repo=breast-cancer-classifier&bg_color=1F222E&title_color=6366F1&text_color=CBD5E1&icon_color=2F81F7&hide_border=true&show_icons=false">
+  </a>  
+  <a href="https://github.com/leomiranda-ky/data-analysis-and-visualization">
+    <img width="278" alt="data-analysis-and-visualization"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leomiranda-ky&repo=data-analysis-and-visualization&bg_color=1F222E&title_color=6366F1&text_color=CBD5E1&icon_color=2F81F7&hide_border=true&show_icons=false">
+  </a>
+  <a href="https://github.com/leomiranda-ky/lp-solution-optimizer">
+    <img width="278" alt="lp-solution-optimizer"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leomiranda-ky&repo=lp-solution-optimizer&bg_color=1F222E&title_color=6366F1&text_color=CBD5E1&icon_color=2F81F7&hide_border=true&show_icons=false">
   </a>
 </p>
 
