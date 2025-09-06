@@ -5,9 +5,8 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=24&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=%E2%80%8B;Always+Learning+%26+Building;AI+%26+Machine+Learning+Enthusiast;Passionate+About+Data+%26+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=24&duration=1800&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=%E2%80%8B;Always+Learning+%26+Building;AI+%26+Machine+Learning+Enthusiast;Passionate+About+Data+%26+Analytics;Curious+about+ML%2C+every+day;Using+ML+to+make+a+difference;From+Data+to+Decisions;Exploring+CNNs+%26+LLMs;MLOps%2C+evaluation%2C+monitoring." alt="Typing SVG" />
 </p>
-
 
 
 ## About Me
