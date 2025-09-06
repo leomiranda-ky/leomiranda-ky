@@ -11,13 +11,13 @@
 
 ## About Me
 
-* 🤖 Strong interest in **Machine Learning & Artificial Intelligence** as drivers of innovation and impact
-* 🎓 **Microsoft Certified: Power BI Data Analyst Associate**
-* 🎓 **Master’s in Computer Engineering**, specialization in **Machine Learning**
-* 🏆 Awarded **Best Student** of the Postgraduate Program in **Business Intelligence and ML** (Porto Executive Academy)
-* 🧩 **Interested** in coding challenges (Advent of Code, LeetCode, etc.)
-* 🌿 Aquascaping is my most **time-consuming** hobby 😄
-* 📚 Regular **ML/AI reader**
+* Strong interest in **Machine Learning & Artificial Intelligence** as drivers of innovation and impact
+* **Microsoft Certified: Power BI Data Analyst Associate**
+* **Master’s in Computer Engineering**, specialization in **Machine Learning**
+* Awarded **Best Student** of the Postgraduate Program in **Business Intelligence and ML** (Porto Executive Academy)
+* **Interested** in coding challenges (Advent of Code, LeetCode, etc.)
+* Aquascaping is my most **time-consuming** hobby 😄
+* Regular **ML/AI reader**
 
 ## Currently Reading
 
